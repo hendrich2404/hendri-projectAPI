@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PUT user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5db256d-c6f9-4cd4-817b-bade0662a933</testCaseGuid>
+   <variable>
+      <defaultValue>'hendri'</defaultValue>
+      <description></description>
+      <id>9abca37d-9c60-48f0-b1d4-cb85ad406772</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'IT'</defaultValue>
+      <description></description>
+      <id>b316025d-c838-46bf-9ebe-3cc41458e9ee</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>a9aa52b2-2f1a-4374-a0d9-40cf10d93fd7</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

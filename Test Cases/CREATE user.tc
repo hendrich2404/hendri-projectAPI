@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create user dengan id yang terbentuk di simpan di global variable</description>
+   <name>CREATE user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01ba9187-47ed-4e0a-b05b-8562cb09bb7c</testCaseGuid>
+   <variable>
+      <defaultValue>'morpheus'</defaultValue>
+      <description></description>
+      <id>6e871bc8-f58f-4814-88a2-c7122cd115d6</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'leader'</defaultValue>
+      <description></description>
+      <id>ee890d75-d9fe-40cc-a468-c25389c211be</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

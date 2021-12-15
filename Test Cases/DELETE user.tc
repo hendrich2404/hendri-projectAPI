@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menghapus id dari create user</description>
+   <name>DELETE user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cdd256a-f53a-41d4-ae89-a80b4eb119f3</testCaseGuid>
+</TestCaseEntity>

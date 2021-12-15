@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengambil id dari create user yang di simpan di global variable</description>
+   <name>GET user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94d8131c-a89a-46d1-94bf-6aa6b3ca2ec3</testCaseGuid>
+</TestCaseEntity>

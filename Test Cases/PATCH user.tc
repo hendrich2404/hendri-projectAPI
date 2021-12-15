@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee7a8c42-94d2-4439-82c4-6da0f206cfe1</testCaseGuid>
+   <variable>
+      <defaultValue>'Singgih'</defaultValue>
+      <description></description>
+      <id>13c3a37c-dcaa-48d0-89bf-c2bc5b72bd33</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'IT'</defaultValue>
+      <description></description>
+      <id>63da39ac-db63-405e-b6a1-0b7e6f6404a6</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>4c01f270-bd88-4e1f-bc04-7fe3ba470005</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
